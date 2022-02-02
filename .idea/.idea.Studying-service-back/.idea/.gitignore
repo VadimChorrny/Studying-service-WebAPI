@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Studying-service-back.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\proto\source\repos\Web\.idea\.idea.Studying-service-back\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
